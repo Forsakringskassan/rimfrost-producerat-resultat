@@ -19,7 +19,5 @@ public interface ProduceratResultat
 
    String avslagsanledning();
 
-   String typ();
-
    Resultat resultat();
 }
