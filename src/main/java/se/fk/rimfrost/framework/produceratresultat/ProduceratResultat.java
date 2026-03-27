@@ -1,5 +1,6 @@
 package se.fk.rimfrost.framework.produceratresultat;
 
+import jakarta.annotation.Nullable;
 import org.immutables.value.Value;
 import java.time.OffsetDateTime;
 import java.util.UUID;
@@ -17,6 +18,7 @@ public interface ProduceratResultat
 
    String yrkandeStatus();
 
+   @Nullable
    String avslagsanledning();
 
    Resultat resultat();
