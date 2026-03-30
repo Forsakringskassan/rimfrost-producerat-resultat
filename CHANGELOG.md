@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-producerat-resultat.
 
+## 0.0.2 (2026-03-30)
+
+### Bug Fixes
+
+-  lägger till interface ResultatMappable som underlättar för mappningsklasser ([4fd40](https://github.com/Forsakringskassan/rimfrost-producerat-resultat/commit/4fd40fc0632b4f0) Ulf Slunga)  
+
 ## 0.0.1 (2026-03-27)
 
 ### Bug Fixes
